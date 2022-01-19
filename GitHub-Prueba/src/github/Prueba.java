@@ -8,8 +8,6 @@ public class Prueba {
 		// TODO Auto-generated method stub
 		
 		 Scanner sc = new Scanner(System.in);
-		 
-		 
 		
 		
 		 System.out.println("Hola mundo, soy MiguelCM19");
